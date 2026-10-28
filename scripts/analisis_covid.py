@@ -94,8 +94,7 @@ try:
     # Imprime un encabezado para identificar la ejecución en la terminal.
     print("\n" + "=" * 65)
     print(
-        " PROCESAMIENTO BATCH - CASOS DE COVID-19 COLOMBIA "
-        "- TAREA 3 - JUAN ESTEBAN GOMEZ HERNANDEZ"
+        " PROCESAMIENTO BATCH - CASOS DE COVID-19 COLOMBIA - TAREA 3 - JUAN ESTEBAN GOMEZ HERNANDEZ"
     )
     print("=" * 65)
 
