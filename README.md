@@ -25,7 +25,7 @@ Descargar el archivo CSV y ubicarlo en la ruta configurada en el script.
 ## Estructura del proyecto
 
 ```text
-bigdata-covid-colombia/
+tarea3_juangomez/
 ├── scripts/
 │   └── analisis_covid.py
 ├── README.md
