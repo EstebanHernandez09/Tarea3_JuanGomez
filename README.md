@@ -1,7 +1,7 @@
 # Tarea3_JuanGomez
 Análisis de casos positivos de COVID-19 en Colombia mediante Apache Spark y PySpark.
 
-# Análisis de COVID-19 en Colombia con Apache Spark
+# Análisis de Casos Positivos de COVID-19 en Colombia con Apache Spark
 
 ## Descripción
 
